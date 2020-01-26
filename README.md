@@ -2,7 +2,7 @@
 
 ViewSwapper is a simple Xcode project utilizing UIContainerView as a segmented view swapper for view controllers in a storyboard. In this project, you can learn how to switch from one view controller to another view controller using native classes, such as UISegmentedControl, UIContainerView, and UIStoryboardSegue.
 
-<img src="https://github.com/iamjcabarra/ViewSwapper/blob/master/Screenshot_001.png" width="500" height="700"> <img src="https://github.com/iamjcabarra/ViewSwapper/blob/master/Screenshot_002.png" width="500" height="700">
+<img src="https://github.com/iamjcabarra/ViewSwapper/blob/master/Screenshot_001.png" width="350" height="700"> <img src="https://github.com/iamjcabarra/ViewSwapper/blob/master/Screenshot_002.png" width="350" height="700">
 
 ## License
 
